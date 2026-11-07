@@ -1,0 +1,6 @@
+{
+  "name": "Shamba Link - Kenyan Farm-to-Market Marketplace",
+  "description": "Direct agricultural marketplace connecting Kenyan farmers with consumers, restaurants, supermarkets, and bulk buyers with fair prices and transparent sourcing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
